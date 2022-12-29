@@ -4,6 +4,7 @@
 /// @brief Файл с объявлением класса читателя блока команд
 
 #include <memory>
+#include <string>
 
 class Bulk;
 
